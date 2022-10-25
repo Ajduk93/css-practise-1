@@ -1,0 +1,24 @@
+* {
+    background-color: rgb(152, 155, 164);
+}
+h1 {
+    color: #dd330d;
+}
+.my-h1{
+    color: darkcyan;
+    font-size: 55px;
+    }
+
+    [disabled] {
+     color: rgb(red, green, blue);
+     background-color: #e1b2a7;
+    }
+#selector-types {
+    color: pink
+}
+.star {
+    color: blue;
+}
+.universal {
+    color:  green;
+}
